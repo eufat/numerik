@@ -14,3 +14,7 @@ Numerik is a collection of computational physics and numerical analysis code. Th
 * Bisection
 * Newton-Raphson
 * Gauss Elimination
+* Trapezoid Integration
+* Simpson Integration
+* 3/8 Simpson Integration
+* Boole Integration
