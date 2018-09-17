@@ -1,6 +1,6 @@
-# Numerik
+# Numerik 1
 
-Numerik is a collection of computational physics and numerical analysis code. This repo is based on Computational Physics 1 and 2 class at University of Indonesia. 
+Numerik is a collection of computational physics and numerical analysis code. This repo is based on Computational Physics 1 class at University of Indonesia. 
 
 ## Prerequisites
 
